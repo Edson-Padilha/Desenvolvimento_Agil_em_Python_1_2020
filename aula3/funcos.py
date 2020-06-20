@@ -4,6 +4,7 @@ def soma(num1_fun, num2_fun): # passar variáveis por parametro(s)
     soma_fun = num1_fun + num2_fun
     return soma_fun
 
+
 menu = """ 
 Opções:
 1) Soma
