@@ -7,3 +7,25 @@
 # dica: use um if para testar se o número é par. Se for par execute o 
 # continue
 # dica2: use o print fora do if
+
+# num = int(input("Digite um número de 10 a 100: "))
+
+# cont = 9
+# while cont < num:
+#     cont = cont + 1
+#     if (cont % 2) == 0:
+#         continue
+#     print(cont)
+a = 1
+
+menu = f''' 
+Opções:
+
+{a}) para oi.
+2) para tchau
+3) para sair
+
+digite a sua opção: '''
+
+var = input(menu)
+print(var)
