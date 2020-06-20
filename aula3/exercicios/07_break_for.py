@@ -12,3 +12,14 @@ tupla = (98, 93, 71, 78, 4, 12, 47, 50, 21, 39, 33,
 # que se encontra o número
 
 # Use o for e o break
+
+numero = int(input("Digite um número de 1 a 100: "))
+contador = 0
+for i in tupla:
+    print(i)
+    if i == numero:
+        print(contador)
+        break
+    contador += 1
+    #contador = contador + 1
+    

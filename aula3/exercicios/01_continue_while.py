@@ -18,14 +18,3 @@
 #     print(cont)
 a = 1
 
-menu = f''' 
-Opções:
-
-{a}) para oi.
-2) para tchau
-3) para sair
-
-digite a sua opção: '''
-
-var = input(menu)
-print(var)

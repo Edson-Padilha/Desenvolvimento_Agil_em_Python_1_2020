@@ -1,5 +1,5 @@
-Break
-Continue
+#Break
+#Continue
 Verdadeiro, Falso E Nulo
 Funções
 Return Versos Side Effects
@@ -9,4 +9,4 @@ Intervalo De Strings
 
 ** // %
 logicos
-comparação
+#comparação
