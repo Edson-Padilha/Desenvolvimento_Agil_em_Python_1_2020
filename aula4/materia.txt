@@ -1,8 +1,5 @@
-Formatando String
 Módulos
 Manipulação De Arquivos
 Sistemas De Arquivo
-Geradores
-Transposição Com O Método Zip
-List Comprehension
-Generator Expression
+
+
